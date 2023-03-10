@@ -9,3 +9,4 @@ Tecnologias utilizadas:
 - React.js
 - Java Script
 - CSS
+- HTML
